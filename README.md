@@ -1,0 +1,2 @@
+# Cold-chain-sensor-support-Dynamics-365-Customer-Service-case-study
+Built end-to-end in a Dynamics 365 Customer Service environment by Galina Nelyubova (Auckland, NZ citizen · PL-200 · AI-900) as a demonstration of how I approach real delivery: requirements framed around a business problem, design decisions recorded with their rejected alternatives, tests evidenced, and limitations stated openly.
