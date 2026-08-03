@@ -7,7 +7,7 @@ Author: Galina Nelyubova — Auckland, New Zealand citizen. PL-200, AI-900.
 
 | | |
 |---|---|
-| Demo video (6 min) | [link](LINK) |
+| Demo video (1.5 min) | [link](https://youtu.be/rFNqokF-G6o) |
 | Design decisions and fit-gap analysis | [docs/01_Design_Decision_Register.md](docs/01_Design_Decision_Register.md) |
 | Test log | [docs/02_Test_Log.md](docs/02_Test_Log.md) |
 | Security matrix | [docs/03_Security_Matrix.md](docs/03_Security_Matrix.md) |
