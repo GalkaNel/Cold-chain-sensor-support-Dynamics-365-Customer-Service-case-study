@@ -16,6 +16,12 @@ Author: Galina Nelyubova — Auckland, New Zealand citizen. PL-200, AI-900.
 
 ---
 
+**Technologies:** Dynamics 365 Customer Service · Microsoft Dataverse · Power Automate · Power Apps (model-driven) · AI Builder · Power Platform solutions · OData · REST/webhook integration · PowerShell.
+
+**Practices:** requirements analysis · fit-gap analysis · solution design and configuration · design decision records · data modelling · process automation · integration design · AI governance and cost control · security design · data migration · ALM and environment management · test design and defect analysis · licensing and cost estimation.
+
+---
+
 ## 1. Business context
 
 A New Zealand vendor sells IoT temperature sensors for cold-chain assets and services them under monitoring contracts. Its customers purchase two outcomes: demonstrable temperature continuity for MPI/HACCP audits, and avoidance of spoilage loss, where a single excursion in a loaded cold store represents tens of thousands of dollars of stock and a subsequent insurance dispute.
